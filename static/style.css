@@ -1,0 +1,14 @@
+h1 {
+    color: blue;
+}
+
+button {
+    width: 100%;
+    height: 20%;
+    border: none;
+    border-radius: 25px;
+    background-color: navy;
+    color: white;
+    font-family: "Alfa Slab One", cursive;
+    font-size: 144px;
+}
